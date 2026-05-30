@@ -14,6 +14,9 @@ import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 import joblib
 import nltk
+nltk.download('punkt', quiet=True)
+nltk.download('punkt_tab', quiet=True)
+nltk.download('averaged_perceptron_tagger_eng', quiet=True)
 
 warnings.filterwarnings("ignore")
 
