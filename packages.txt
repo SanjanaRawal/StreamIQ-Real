@@ -1,0 +1,2 @@
+# StreamIQ_Real/packages.txt
+build-essential
