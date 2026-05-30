@@ -1,0 +1,5 @@
+model,metric,value
+Churn Predictor,AUC-ROC,1.0
+Watch Completion,R²,0.595898422312089
+Watch Completion,MAE (%),7.9527484653214415
+Next Genre,Accuracy,0.32886666666666664
